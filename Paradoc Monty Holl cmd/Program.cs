@@ -35,7 +35,7 @@ namespace Paradoc_Monty_Holl_cmd
             //result[0].notes = "is changed";
             //model1.SaveChanges();
           //  var connectionStr = ConfigurationManager.ConnectionStrings["game"].ConnectionString;
-           
+           //
             var countOfGames = 100;
             var automat = false;
             var isNeedToChangeRoom = true;
